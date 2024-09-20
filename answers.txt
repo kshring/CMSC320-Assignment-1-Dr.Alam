@@ -1,3 +1,8 @@
+Q1: Why might be consider using git?
+
+Answer: Git is important for version control,collaboration, etc. It can help track when our code has changed, allow many people to work on it at the same time and improve overall efficiency.
+
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the business industry. Data science can help show trends in the market, information abuot a company's customer base and even help in things such as financial planning and growth opportunties.
