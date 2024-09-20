@@ -6,3 +6,13 @@ Answer: Git is important for version control,collaboration, etc. It can help tra
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the business industry. Data science can help show trends in the market, information abuot a company's customer base and even help in things such as financial planning and growth opportunties.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging helps keep the history intact via the commits however rebasing rewrites commits for a cleaner history
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my python skills and learn new topics such as SQL and web scraping.
